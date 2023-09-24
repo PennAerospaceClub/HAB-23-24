@@ -1,0 +1,17 @@
+Today we will be learning how to use Git and doing a basic introduction to Pandas in python.
+
+Unfortunately I will not be here but Maryam will be taking over.
+
+First, install python, jupyter notebook, and pandas on your computer. Then install VSCode or your editor of choice.
+
+Then, go into the pac repo https://github.com/PennAerospaceClub/HAB-23-24 and clone the HAB 23-24 repository.
+You might need permission access, let Maryam know to contact me if there are issues here.
+
+Once you have this all set up, go into Pandas Tutorial.ipynb. Here, I have written the code necessary to import pandas and access
+a test dataset. From here, I want you to dig through pandas documentation to find out how to answer the following questions.
+
+1. What are the ranges of sepal_length, sepal_width, petal_length, and petal_width?
+2. How many species are there and how many of each species are there?
+3. Find the average sepal_length, sepal_width, petal_length, and petal_width by species. Which has the biggest petal size (length * width)?
+4. Filter the dataset 
+5. Find the ratio of the average petal size to the average sepal size by species and sort it from highest to lowest.
