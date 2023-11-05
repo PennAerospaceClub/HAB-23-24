@@ -1,0 +1,21 @@
+.habLogo {
+    position: absolute;
+    top: 0%;
+    left: 0.5%;
+    height: 100px;
+    width: 100px;
+  }
+  
+  .habText {
+    position: absolute;
+    top: 3.7%;
+    left: 7%;
+    height: 120px;
+    width: 170px;
+    font-family: 'Raleway';
+  }
+
+  a:visited { 
+    text-decoration: none; 
+    color: black; 
+   }
