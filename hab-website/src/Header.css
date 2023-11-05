@@ -18,17 +18,43 @@
 a { 
     text-decoration: none; 
     color: black; 
+    font-family: 'Raleway';
 }
 
 a:hover {
     text-decoration: none; 
     color: black; 
+    font-family: 'Raleway';
 }
 
 .groundControl {
     position: fixed;
-    top: 42px;
-    left: 476px;
+    top: 40px;
+    left: 400px;
+    height: 29px;
+    width: 178px;
+}
+
+.media {
+    position: fixed;
+    top: 40px;
+    left: 700px;
+    height: 29px;
+    width: 178px;
+}
+
+.documentation {
+    position: fixed;
+    top: 40px;
+    left: 1000px;
+    height: 29px;
+    width: 178px;
+}
+
+.about {
+    position: fixed;
+    top: 40px;
+    left: 1300px;
     height: 29px;
     width: 178px;
 }

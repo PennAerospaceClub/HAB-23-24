@@ -14,16 +14,16 @@ function Header() {
         </a>
       </div>
       <div className='groundControl'>
-        <Link to='/ground-control' style={{ textDecoration: 'none' }}>Ground Control</Link>
+        <Link to='/ground-control' style={{ textDecoration: 'none', fontSize: 20}}>Ground Control</Link>
       </div>
       <div className='media'>
-        <Link to='/media' style={{ textDecoration: 'none' }}>Media</Link>
+        <Link to='/media' style={{ textDecoration: 'none', fontSize: 20 }}>Media</Link>
       </div>
       <div className='documentation'>
-        <Link to='/documentation' style={{ textDecoration: 'none' }}>Documentation</Link>
+        <Link to='/documentation' style={{ textDecoration: 'none', fontSize: 20 }}>Documentation</Link>
       </div>
       <div className='about'>
-        <Link to='/about' style={{ textDecoration: 'none' }}>About</Link>
+        <Link to='/about' style={{ textDecoration: 'none', fontSize: 20 }}>About</Link>
       </div>
     </div>
   );
