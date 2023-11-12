@@ -1,0 +1,34 @@
+.habLogo {
+    position: fixed;
+    top: 6px;
+    left: 24px;
+    height: 100px;
+    width: 104.12px;
+  }
+  
+.habText {
+    position: fixed;
+    top: 27px;
+    left: 140px;
+    height: 58px;
+    width: 186px;
+    font-family: 'Raleway';
+}
+
+a { 
+    text-decoration: none; 
+    color: black; 
+}
+
+a:hover {
+    text-decoration: none; 
+    color: black; 
+}
+
+.groundControl {
+    position: fixed;
+    top: 42px;
+    left: 476px;
+    height: 29px;
+    width: 178px;
+}
